@@ -1,8 +1,10 @@
-# Hi there 👋
+## Hi there 👋
 
 <br>
 
-## I'm Leandro
+### I'm Leandro
+
+### I'm from Córdoba, Argentina
 
 <br>
 
@@ -18,4 +20,8 @@
 
 <br>
 
-- 📫 You can check out my Resume at [CV-HTML](https://bit.ly/3BWIBSh)
+- 📫 You can know more about me at my [CV HTML](https://bit.ly/3BWIBSh)
+
+<br> 
+
+- Related links: [LinkedIn](https://www.linkedin.com/in/leandro-pedicino-900b261a2) [Portfolio](https://lpedicino.github.io/React-Portfolio) [Email](leakomvial@gmail.com)
