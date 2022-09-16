@@ -18,4 +18,4 @@
 
 <br>
 
-- 📫 You can check out my Resume at <https://lpedicino.github.io/CV-HTML>
+- 📫 You can check out my Resume at [CV-HTML](https://bit.ly/3BWIBSh)
