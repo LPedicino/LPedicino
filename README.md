@@ -18,4 +18,4 @@
 
 <br>
 
-- 📫 You can check out my Resume at < bit.ly/3BWIBSh >
+- 📫 You can check out my Resume at <[bit.ly/3BWIBSh]>
