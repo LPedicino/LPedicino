@@ -2,6 +2,7 @@
 <br>
 ## I'm Leandro  
 <br>
+
 - 🔭 I’m currently working on developing my skills.  
 <br>
 - 🌱 I’m currently learning React.  
