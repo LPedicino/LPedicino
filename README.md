@@ -6,7 +6,7 @@
 
 
 <p align="center">
-  <img width="80%" height="300"  alt="welcome-gif" src="https://chods-cheats.com/uploads/monthly_2018_05/1511987001_profilegif.gif.1ef57615f3308eaf1a07d30312b7a163.gif">
+  <img width="70%" height="250"  alt="welcome-gif" src="https://chods-cheats.com/uploads/monthly_2018_05/1511987001_profilegif.gif.1ef57615f3308eaf1a07d30312b7a163.gif">
   </p>
   
 <h3 align="center">
@@ -15,15 +15,15 @@
 
   <br>
 
-<span align="center">
+<h4 align="center">
 
 🔭 I’m currently working to improve my skills.
 
 👯 I’m looking to collaborate on Real team work experiences.
 
-📫 You can reach me out at my [CV HTML](https://bit.ly/3BWIBSh)
+📫 You can reach me out at my [CV HTML](https://bit.ly/3BWIBSh).
 
-</span>
+</h4>
 
 <br>
 
