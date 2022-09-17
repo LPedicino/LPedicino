@@ -4,17 +4,16 @@
 
 ## I'm from Córdoba, Argentina
 
-<br>
 
 <p align="center">
   <img border-radius="100" width="500"  alt="me" src="https://scontent.fcor11-2.fna.fbcdn.net/v/t39.30808-6/263574055_5200016946692130_8086678435063621595_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=174925&_nc_eui2=AeGxKKKt_ciboTmEBpqyO1ERShkDzALqNE5KGQPMAuo0TlVxkDEZKkKa-iOZwBpzsbPyYnFXO_4ZSIIIjn0tw10j&_nc_ohc=TCUQE9Qsk0YAX_TuOHg&tn=04xlybPtval-cipv&_nc_ht=scontent.fcor11-2.fna&oh=00_AT9eRLf_zufF8Xxzp9n2YI3eqx7C99U4UAEE2HhT7JUIxw&oe=632AC3C6">
   </p>
   
-### Programming student. Lover of technology, videogames and cooking.  A curious person who is willing to learn new things.
+### Programming student. Lover of technology, nature, videogames and food. <br> A curious person who is willing to learn new things. <br> I'm Developing a developer...
   
   <br>
 
-- 🔭 I’m currently working on developing my skills.
+- 🔭 I’m currently working to improve my skills.
 
 
 - 👯 I’m looking to collaborate on Real team work experiences.
@@ -29,10 +28,7 @@
 </h1>
  
  <br> 
- 
- 
- 
- 
+  
 <p align="center">
 <img width="63" alt="javascript-logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Javascript_badge.svg/1200px-Javascript_badge.svg.png"> <img width="66" alt="html-logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"> <img width="66" alt="css-logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg">
 </p>
@@ -48,7 +44,7 @@
 
 </p>
 
-### :computer: Related links: 
+## Related links: 
 
 - [LinkedIn](https://www.linkedin.com/in/leandro-pedicino-900b261a2)   <img width="18" alt="linkedin-logo" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR43LGywQ7V9e95OyuoNYBzPWYOwYhCar6YDWAIjgVhDZJOBYOgNwkdN046ro2ALgJHGTA&usqp=CAU">
 - [Portfolio](https://lpedicino.github.io/React-Portfolio)  :open_file_folder:
