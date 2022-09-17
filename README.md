@@ -1,29 +1,33 @@
-# Hi there 👋
+<h1 align="center"> Hi there 👋 </h1>
 
-## I'm Leandro
+<h2 align="center">  I'm Leandro </h2>
 
-## I'm from Córdoba, Argentina
+<h2 align="center">  I'm from Córdoba, Argentina </h2>
 
 
 <p align="center">
   <img border-radius="100" width="500"  alt="me" src="https://scontent.fcor11-2.fna.fbcdn.net/v/t39.30808-6/263574055_5200016946692130_8086678435063621595_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=174925&_nc_eui2=AeGxKKKt_ciboTmEBpqyO1ERShkDzALqNE5KGQPMAuo0TlVxkDEZKkKa-iOZwBpzsbPyYnFXO_4ZSIIIjn0tw10j&_nc_ohc=TCUQE9Qsk0YAX_TuOHg&tn=04xlybPtval-cipv&_nc_ht=scontent.fcor11-2.fna&oh=00_AT9eRLf_zufF8Xxzp9n2YI3eqx7C99U4UAEE2HhT7JUIxw&oe=632AC3C6">
   </p>
   
-### Programming student. Lover of technology, nature, videogames and food. <br> A curious person who is willing to learn new things. <br> I'm Developing a developer...
-  
+<h3 align="center">
+ Programming student. Lover of technology, nature, videogames and food. <br> A curious person who is willing to learn new things. <br> I'm Developing a developer...
+</h3>
+
   <br>
 
-- 🔭 I’m currently working to improve my skills.
+<span align="center">
 
+🔭 I’m currently working to improve my skills.
 
-- 👯 I’m looking to collaborate on Real team work experiences.
+👯 I’m looking to collaborate on Real team work experiences.
 
+📫 You can reach me out at my [CV HTML](https://bit.ly/3BWIBSh)
 
-- 📫 You can reach me out at my [CV HTML](https://bit.ly/3BWIBSh)
+</span>
 
 <br>
 
-<h1 align="center">
+<h2 align="center">
  Technologies I've worked with:
 </h1>
  
@@ -44,9 +48,21 @@
 
 </p>
 
-## Related links: 
+<br>
 
-- [LinkedIn](https://www.linkedin.com/in/leandro-pedicino-900b261a2)   <img width="18" alt="linkedin-logo" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR43LGywQ7V9e95OyuoNYBzPWYOwYhCar6YDWAIjgVhDZJOBYOgNwkdN046ro2ALgJHGTA&usqp=CAU">
-- [Portfolio](https://lpedicino.github.io/React-Portfolio)  :open_file_folder:
-- [Email](leakomvial@gmail.com)  :mailbox:
+<h1 align="center">
+ Related links: 
+</h1>
 
+<br>
+
+<span align="center">
+
+
+[LinkedIn](https://www.linkedin.com/in/leandro-pedicino-900b261a2) <img width="18" alt="linkedin-logo" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR43LGywQ7V9e95OyuoNYBzPWYOwYhCar6YDWAIjgVhDZJOBYOgNwkdN046ro2ALgJHGTA&usqp=CAU">  
+
+[Portfolio](https://lpedicino.github.io/React-Portfolio)  :open_file_folder:
+
+[Email](leakomvial@gmail.com)  :mailbox:
+
+</span>
