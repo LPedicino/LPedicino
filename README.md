@@ -1,8 +1,8 @@
-<h1 align="center"> Hi there 👋 </h1>
+<h1 align="center"> :fire: Hi there :fire:  </h1>
 
-<h2 align="center">  I'm Leandro </h2>
+<h2 align="center"> I'm Leandro </h2>
 
-<h2 align="center">  I'm from Córdoba, Argentina </h2>
+<h2 align="center"> From Córdoba, Argentina </h2>
 
 
 <p align="center">
@@ -17,11 +17,11 @@
 
 <h4 align="center">
 
-🔭 I’m currently working to improve my skills.
+ :point_right: I’m currently working to improve my skills. :hammer:
 
-👯 I’m looking to collaborate on Real team work experiences.
+:point_right: I'm looking to collaborate with real work projects. :wave:
 
-📫 You can reach me out at my [CV HTML](https://bit.ly/3BWIBSh).
+:point_right: You can reach me out at my [CV HTML](https://bit.ly/3BWIBSh). :book:
 
 </h4>
 
@@ -63,6 +63,6 @@
 
 [Portfolio](https://lpedicino.github.io/React-Portfolio)  :open_file_folder:
 
-[Email](leakomvial@gmail.com)  :mailbox:
+[Email](leakomvial@gmail.com)  :e-mail:
 
 </span>
