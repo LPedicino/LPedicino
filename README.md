@@ -6,7 +6,7 @@
 
 
 <p align="center">
-  <img border-radius="100" width="500"  alt="me" src="https://scontent.fcor11-2.fna.fbcdn.net/v/t31.18172-8/10483283_945505448809989_8612061857692054829_o.jpg?_nc_cat=104&ccb=1-7&_nc_sid=19026a&_nc_eui2=AeEkCsX7PggXoqOl9-i76YIhRP7gefda2-BE_uB591rb4NZM8Viny-bD6_rlSFFQRkg_YivJazTXfoeeSftbyQeL&_nc_ohc=tgRERVU71MEAX_s3Elf&_nc_ht=scontent.fcor11-2.fna&oh=00_AT9UvvrFZ6nBDyFZJfERGmeg7QuBSqPO7wwQP8W41ZxjPg&oe=634B48D9">
+  <img width="80%" height="300"  alt="welcome-gif" src="https://chods-cheats.com/uploads/monthly_2018_05/1511987001_profilegif.gif.1ef57615f3308eaf1a07d30312b7a163.gif">
   </p>
   
 <h3 align="center">
