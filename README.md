@@ -17,7 +17,7 @@
 
 <h4 align="center">
 
- :point_right: I’m currently working to improve my skills. :hammer:
+:point_right: I’m currently working to improve my skills. :hammer:
 
 :point_right: I'm looking to collaborate with real work projects. :wave:
 
@@ -28,10 +28,12 @@
 <br>
 
 <h2 align="center">
+
  Technologies I've worked with:
-</h1>
  
- <br> 
+</h2>
+ 
+<br> 
   
 <p align="center">
 <img width="63" alt="javascript-logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Javascript_badge.svg/1200px-Javascript_badge.svg.png"> <img width="66" alt="html-logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"> <img width="66" alt="css-logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg">
@@ -44,15 +46,17 @@
 <img width="55" alt="api-logo" src="https://www.svgrepo.com/show/88703/api.svg">   <img width="55" alt="sql-logo" src="https://www.svgrepo.com/show/255832/sql.svg">
  </p>
  <p align="center">
-  <img width="140" alt="vsc-logo" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.png">
+ <img width="140" alt="vsc-logo" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.png">
 
 </p>
 
 <br>
 
-<h1 align="center">
+<h2 align="center">
+
  Related links: 
-</h1>
+ 
+</h2>
 
 <br>
 
