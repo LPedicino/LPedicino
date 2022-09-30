@@ -21,7 +21,7 @@
 
 :point_right: I'm looking to collaborate with real work projects. :wave:
 
-:point_right: You can reach me out at my [CV HTML](https://bit.ly/3BWIBSh). :book:
+:point_right: You can reach me out at my CV Online: [English](https://lpedicino.github.io/CV-HTML-EN/) / [Spanish](https://lpedicino.github.io/CV-HTML-ES/). :book:
 
 </h4>
 
