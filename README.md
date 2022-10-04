@@ -34,21 +34,30 @@
 </h2>
  
 <br> 
-  
-<p align="center">
-<img width="63" alt="javascript-logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Javascript_badge.svg/1200px-Javascript_badge.svg.png"> <img width="66" alt="html-logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"> <img width="66" alt="css-logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg">
-</p>
+ 
+ <span align="center"> 
+ 
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 
-<p align="center">
-<img width="60" alt="react-logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"> <img width="66" alt="mongodb-logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"> <img width="75" alt="figma-logo" src="https://www.vectorlogo.zone/logos/figma/figma-ar21.png"> 
-</p>
-<p align="center">
-<img width="55" alt="api-logo" src="https://www.svgrepo.com/show/88703/api.svg">   <img width="55" alt="sql-logo" src="https://www.svgrepo.com/show/255832/sql.svg">
- </p>
- <p align="center">
- <img width="140" alt="vsc-logo" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.png">
+</span>
 
-</p>
+<span align="center">
+
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+
+</span>
+
+<span align="center">
+
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
+
+</span>
 
 <br>
 
