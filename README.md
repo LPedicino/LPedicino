@@ -1,8 +1,8 @@
-<h1 align="center"> :fire: Hi there :fire:  </h1>
+<span align="center">
 
-<h2 align="center"> I'm Leandro </h2>
-
-<h2 align="center"> From Córdoba, Argentina </h2>
+# :fire: Hi there :fire:
+## I'm Leandro .
+## From Córdoba, Argentina.
 
 
 <p align="center">
@@ -33,8 +33,7 @@
  
 </h2>
  
-<br> 
- 
+
  <span align="center"> 
  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
@@ -67,15 +66,17 @@
  
 </h2>
 
-<br>
 
 <span align="center">
 
+[![Linkedin Badge](https://img.shields.io/badge/-LeandroPedicino-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leandro-pedicino/)](https://www.linkedin.com/in/leandro-pedicino/)
+[![Gmail Badge](https://img.shields.io/badge/-leakomvial@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leakomvial@gmail.com)](mailto:leakomvial@gmail.com)
 
-[LinkedIn](https://www.linkedin.com/in/leandro-pedicino-900b261a2) <img width="18" alt="linkedin-logo" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR43LGywQ7V9e95OyuoNYBzPWYOwYhCar6YDWAIjgVhDZJOBYOgNwkdN046ro2ALgJHGTA&usqp=CAU">  
+</span>
 
-[Portfolio](https://lpedicino.github.io/React-Portfolio)  :open_file_folder:
+<span align="center">
 
-[Email](leakomvial@gmail.com)  :e-mail:
+[![Medium Badge](https://img.shields.io/badge/-Portfolio-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https:https://lpedicino.github.io/React-Portfolio)](https://lpedicino.github.io/React-Portfolio)
+[![Instagram Badge](https://img.shields.io/badge/-leapedicino-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/leapedicino/)](https://www.instagram.com/leapedicino/)
 
 </span>
