@@ -76,7 +76,13 @@
 
 <span align="center">
 
-[![Medium Badge](https://img.shields.io/badge/-Portfolio-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https:https://lpedicino.github.io/React-Portfolio)](https://lpedicino.github.io/React-Portfolio)
+[![Medium Badge](https://img.shields.io/badge/-Portfolio-red?style=flat-square&labelColor=000000&logo=Medium&link=https:https://lpedicino.github.io/React-Portfolio)](https://lpedicino.github.io/React-Portfolio)
 [![Instagram Badge](https://img.shields.io/badge/-leapedicino-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/leapedicino/)](https://www.instagram.com/leapedicino/)
 
 </span>
+
+<span align="center">
+
+## Want to test your memory?:
+#### Try out this MemoTest of the popular game Cuphead, made with Html css and JS.
+### :point_right:  [![Medium Badge](https://img.shields.io/badge/-MemoTest-blue?style=flat-square&labelColor=000000&logo=Medium&link=https:https://lpedicino.github.io/MemotestCuphead/)](https://lpedicino.github.io/MemotestCuphead/)
