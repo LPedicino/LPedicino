@@ -10,18 +10,20 @@
   </p>
   
 <h3 align="center">
- Programming student. Lover of technology, nature, videogames and food. <br> A curious person who is willing to learn new things. <br> I'm Developing a developer...
+ Programming student. Lover of technology, nature, videogames and food. <br> A curious person who is willing to learn new things.
 </h3>
 
   <br>
 
 <h4 align="center">
+  
+ :point_right: I’m Developing a developer. :bulb: 
 
 :point_right: I’m currently working to improve my skills. :hammer:
 
-:point_right: I'm looking to collaborate with real work projects. :wave:
+:point_right: I'm looking to collaborate with real work projects. 🧑‍🤝‍🧑
 
-:point_right: You can reach me out at my CV Online: [English](https://lpedicino.github.io/CV-HTML-EN/) / [Spanish](https://lpedicino.github.io/CV-HTML-ES/). :book:
+:point_right: You can reach me out at my CV Online: [English](https://lpedicino.github.io/CV-HTML-EN/) / [Spanish](https://lpedicino.github.io/CV-HTML-ES/). 📂
 
 </h4>
 
