@@ -60,6 +60,19 @@
 
 <br>
 
+<span align="center">
+
+## Check this out:
+#### Wanna Test your memory? Try out this MemoTest of the popular game Cuphead.
+### :point_right:  [![Medium Badge](https://img.shields.io/badge/-MemoTest-blue?style=flat-square&labelColor=000000&logo=Medium&link=https:https://lpedicino.github.io/MemotestCuphead/)](https://lpedicino.github.io/MemotestCuphead/)
+
+#### Check the weather of your City with this Weather App made with React
+### :point_right:  [![Medium Badge](https://img.shields.io/badge/-WeatherApp-yellow?style=flat-square&labelColor=000000&logo=Medium&link=https:https://lpedicino.github.io/weather-app/)](https://lpedicino.github.io/weather-app/)
+ 
+ </span>
+
+<br>
+
 <h2 align="center">
 
  Related links: 
@@ -80,9 +93,3 @@
 [![Instagram Badge](https://img.shields.io/badge/-leapedicino-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/leapedicino/)](https://www.instagram.com/leapedicino/)
 
 </span>
-
-<span align="center">
-
-## Want to test your memory?:
-#### Try out this MemoTest of the popular game Cuphead, made with Html css and JS.
-### :point_right:  [![Medium Badge](https://img.shields.io/badge/-MemoTest-blue?style=flat-square&labelColor=000000&logo=Medium&link=https:https://lpedicino.github.io/MemotestCuphead/)](https://lpedicino.github.io/MemotestCuphead/)
