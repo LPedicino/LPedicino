@@ -23,7 +23,7 @@
 
 :point_right: I'm looking to collaborate with real work projects. 🧑‍🤝‍🧑
 
-:point_right: You can reach me out at my CV Online: [Click here](https://lpedicino.github.io/CV-HTML-ES/). 📂
+:point_right: You can reach me out at my Portfolio: [Click here](https://lpedicino.github.io/My-Portfolio/). 📂
 
 </h4>
 
@@ -86,12 +86,5 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LeandroPedicino-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leandro-pedicino/)](https://www.linkedin.com/in/leandro-pedicino/)
 [![Gmail Badge](https://img.shields.io/badge/-leakomvial@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leakomvial@gmail.com)](mailto:leakomvial@gmail.com)
-
-</span>
-
-<span align="center">
-
-[![Medium Badge](https://img.shields.io/badge/-Portfolio-red?style=flat-square&labelColor=000000&logo=Medium&link=https:https://lpedicino.github.io/React-Portfolio)](https://lpedicino.github.io/React-Portfolio)
 [![Instagram Badge](https://img.shields.io/badge/-leapedicino-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/leapedicino/)](https://www.instagram.com/leapedicino/)
-
 </span>
