@@ -1,8 +1,8 @@
 <span align="center">
 
 # :fire: Hi there :fire:
-## I'm Leandro .
-## From Córdoba, Argentina.
+## I'm Leandro
+## From Córdoba, Argentina
 
 
 <p align="center">
@@ -17,13 +17,13 @@
 
 <h4 align="center">
   
- :point_right: I’m Developing a developer. :bulb: 
+:point_right: I’m Developing a developer. :bulb: 
 
 :point_right: I’m currently working to improve my skills. :hammer:
 
 :point_right: I'm looking to collaborate with real work projects. 🧑‍🤝‍🧑
 
-:point_right: You can reach me out at my Portfolio: [Click here](https://lpedicino.github.io/My-Portfolio/). 📂
+:point_right: You can reach me out at my [Portfolio](https://lpedicino.github.io/My-Portfolio/) 📂
 
 </h4>
 
@@ -68,7 +68,7 @@
 #### Wanna Test your memory? Try out this MemoTest of the popular game Cuphead.
 ### :point_right:  [![Medium Badge](https://img.shields.io/badge/-MemoTest-blue?style=flat-square&labelColor=000000&logo=Medium&link=https:https://lpedicino.github.io/MemotestCuphead/)](https://lpedicino.github.io/MemotestCuphead/)
 
-#### Check the weather of your City with this Weather App made with React
+#### Check the weather of your City with this Weather App made with React.
 ### :point_right:  [![Medium Badge](https://img.shields.io/badge/-WeatherApp-yellow?style=flat-square&labelColor=000000&logo=Medium&link=https:https://lpedicino.github.io/weather-app/)](https://lpedicino.github.io/weather-app/)
  
  </span>
