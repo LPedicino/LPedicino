@@ -23,7 +23,7 @@
 
 :point_right: I'm looking to collaborate with real work projects. 🧑‍🤝‍🧑
 
-:point_right: You can reach me out at my CV Online: [English](https://lpedicino.github.io/CV-HTML-EN/) / [Spanish](https://lpedicino.github.io/CV-HTML-ES/). 📂
+:point_right: You can reach me out at my CV Online: [Click here](https://lpedicino.github.io/CV-HTML-ES/). 📂
 
 </h4>
 
