@@ -23,7 +23,7 @@
 
 :point_right: I'm looking to collaborate with real work projects. 🧑‍🤝‍🧑
 
-:point_right: You can reach me out at my [Portfolio](https://lpedicino.github.io/My-Portfolio/eng.html) 📂
+:point_right: You can reach me out at my [Portfolio](https://lpedicino.github.io/portfolio/) 📂
 
 </h4>
 
