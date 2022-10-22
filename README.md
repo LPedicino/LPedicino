@@ -49,28 +49,44 @@
 
 ![MySQL](https://img.shields.io/badge/-MySQL-add8e6?style=flat-circle&logo=mysql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-circle&logo=mongodb)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-circle&logo=bootstrap)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-circle&logo=visual-studio-code)
+
 
 </span>
 
 <span align="center">
 
 ![Figma](https://img.shields.io/badge/-Figma-181717?style=flat-circle&logo=figma)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-circle&logo=visual-studio-code)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-circle&logo=bootstrap)
+
+</span>
+
+<span align="center">
+
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-circle&logo=github)
 
 </span>
+
 
 <br>
 
 <span align="center">
 
 ## Check this out:
-#### Wanna Test your memory? Try out this MemoTest of the popular game Cuphead.
-### :point_right:  [![](https://img.shields.io/badge/-MemoTest-blue?style=flat-circle&labelColor=000000&logo=github&link=https:https://lpedicino.github.io/MemotestCuphead/)](https://lpedicino.github.io/MemotestCuphead/)
 
-#### Check the weather of your City with this Weather App made with React.
-### :point_right:  [![](https://img.shields.io/badge/-WeatherApp-yellow?style=flat-circle&labelColor=000000&logo=github&link=https:https://lpedicino.github.io/weather-app/)](https://lpedicino.github.io/weather-app/)
+
+#### Weather App made with React and Axios :point_right:  [![](https://img.shields.io/badge/-Demo-yellow?style=flat-circle&labelColor=000000&logo=github&link=https:https://lpedicino.github.io/weather-app/)](https://lpedicino.github.io/weather-app/)
+
+#### Crypto Currency made with React and Axios :point_right:  [![](https://img.shields.io/badge/-Demo-black?style=flat-circle&labelColor=000000&logo=github&link=https://lpedicino.github.io/Crypto-Currency/)](https://lpedicino.github.io/Crypto-Currency/)
+ 
+ 
+ #### Memotest Cuphead made with HTML CSS & JS :point_right:  [![](https://img.shields.io/badge/-Demo-blue?style=flat-circle&labelColor=000000&logo=github&link=https:https://lpedicino.github.io/MemotestCuphead/)](https://lpedicino.github.io/MemotestCuphead/)
+ 
+ 
+#### Pókedex App made with React  :point_right:  [![](https://img.shields.io/badge/-Demo-red?style=flat-circle&labelColor=000000&logo=github&link=https://lpedicino.github.io/pokeapp/)](https://lpedicino.github.io/pokeapp/)
+
+ 
+ #### Food Recipes made with React :point_right:  [![](https://img.shields.io/badge/-Demo-orange?style=flat-circle&labelColor=000000&logo=github&link=https://lpedicino.github.io/food-recipes/)](https://lpedicino.github.io/food-recipes/)
  
  </span>
 
