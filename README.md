@@ -80,10 +80,10 @@
 #### Crypto Currency made with React and Axios :point_right:  [![](https://img.shields.io/badge/-Demo-black?style=flat-circle&labelColor=000000&logo=github&link=https://lpedicino.github.io/Crypto-Currency/)](https://lpedicino.github.io/Crypto-Currency/)
  
  
- #### Memotest Cuphead made with HTML CSS & JS :point_right:  [![](https://img.shields.io/badge/-Demo-blue?style=flat-circle&labelColor=000000&logo=github&link=https:https://lpedicino.github.io/MemotestCuphead/)](https://lpedicino.github.io/MemotestCuphead/)
+ #### Memotest made with HTML CSS & JS :point_right:  [![](https://img.shields.io/badge/-Demo-blue?style=flat-circle&labelColor=000000&logo=github&link=https:https://lpedicino.github.io/MemotestCuphead/)](https://lpedicino.github.io/MemotestCuphead/)
  
  
-#### Pókedex App made with React  :point_right:  [![](https://img.shields.io/badge/-Demo-red?style=flat-circle&labelColor=000000&logo=github&link=https://lpedicino.github.io/pokeapp/)](https://lpedicino.github.io/pokeapp/)
+#### Pókedex made with React  :point_right:  [![](https://img.shields.io/badge/-Demo-red?style=flat-circle&labelColor=000000&logo=github&link=https://lpedicino.github.io/pokeapp/)](https://lpedicino.github.io/pokeapp/)
 
  
  #### Food Recipes made with React :point_right:  [![](https://img.shields.io/badge/-Demo-orange?style=flat-circle&labelColor=000000&logo=github&link=https://lpedicino.github.io/food-recipes/)](https://lpedicino.github.io/food-recipes/)
