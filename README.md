@@ -39,7 +39,7 @@
  <span align="center"> 
  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-circle&logo=javascript)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-circle&logo=html5&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-e34c26?style=flat-circle&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-circle&logo=css3)
 ![React](https://img.shields.io/badge/-React-black?style=flat-circle&logo=react)
 
@@ -47,7 +47,7 @@
 
 <span align="center">
 
-![MySQL](https://img.shields.io/badge/-MySQL-add8e6?style=flat-circle&logo=mysql)
+![MySQL](https://img.shields.io/badge/-MySQL-f5f5f5?style=flat-circle&logo=mysql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-circle&logo=mongodb)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-circle&logo=visual-studio-code)
 
@@ -57,7 +57,7 @@
 <span align="center">
 
 ![Figma](https://img.shields.io/badge/-Figma-181717?style=flat-circle&logo=figma)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-circle&logo=bootstrap)
+![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-F5F5F5?style=flat-circle&logo=tailwindcss)
 
 </span>
 
@@ -108,6 +108,5 @@
 
 
 [![Instagram Badge](https://img.shields.io/badge/-leapedicino-purple?style=flat-circle&logo=instagram&logoColor=white&link=https://www.instagram.com/leapedicino/)](https://www.instagram.com/leapedicino/)
-[![Facebook Badge](https://img.shields.io/badge/-leapedicino-3b5998?style=flat-circle&logo=facebook&logoColor=white&link=https://www.instagram.com/leapedicino/)](https://www.facebook.com/leapedicino/)
 
 </span>
