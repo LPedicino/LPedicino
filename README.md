@@ -85,7 +85,7 @@
  #### Memotest made with HTML CSS & JS :point_right:  [![](https://img.shields.io/badge/-Demo-blue?style=flat-circle&labelColor=000000&logo=github&link=https:https://lpedicino.github.io/MemotestCuphead/)](https://lpedicino.github.io/MemotestCuphead/)
  
  
-#### Pókedex made with React  :point_right:  [![](https://img.shields.io/badge/-Demo-red?style=flat-circle&labelColor=000000&logo=github&link=https://lpedicino.github.io/pokeapp/)](https://lpedicino.github.io/pokeapp/)
+#### Pókedex made with HTML CSS & JS  :point_right:  [![](https://img.shields.io/badge/-Demo-red?style=flat-circle&labelColor=000000&logo=github&link=https://lpedicino.github.io/pokedex/)](https://lpedicino.github.io/pokedex/)
 
  
  #### Food Recipes made with React :point_right:  [![](https://img.shields.io/badge/-Demo-orange?style=flat-circle&labelColor=000000&logo=github&link=https://lpedicino.github.io/food-recipes/)](https://lpedicino.github.io/food-recipes/)
