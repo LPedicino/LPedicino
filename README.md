@@ -74,7 +74,7 @@
 
 ## Check this out:
 
-#### Netfly movies made with React and Tailwind CSS :point_right:  [![](https://img.shields.io/badge/-Demo-red?style=flat-circle&labelColor=000000&logo=github&link=https://netfly-react.web.app/)](https://netfly-react.web.app/)
+#### IS NOT NETFLIX made with React and Tailwind CSS :point_right:  [![](https://img.shields.io/badge/-Demo-red?style=flat-circle&labelColor=000000&logo=github&link=https://netfly-react.web.app/)](https://netfly-react.web.app/)
 
 
 #### Weather App made with React and Axios :point_right:  [![](https://img.shields.io/badge/-Demo-yellow?style=flat-circle&labelColor=000000&logo=github&link=https:https://lpedicino.github.io/weather-app/)](https://lpedicino.github.io/weather-app/)
