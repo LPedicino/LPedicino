@@ -74,19 +74,16 @@
 
 ## Check this out:
 
+#### Nike E-commerce made with Vite & Tailwind CSS :point_right:  [![](https://img.shields.io/badge/-Demo-black?style=flat-circle&labelColor=000000&logo=github&link=https:https://nike-ecommerce-tau.vercel.app/)](https://nike-ecommerce-tau.vercel.app/)
+  
 #### IS NOT NETFLIX made with React and Tailwind CSS :point_right:  [![](https://img.shields.io/badge/-Demo-red?style=flat-circle&labelColor=000000&logo=github&link=https://netfly-react.web.app/)](https://netfly-react.web.app/)
 
-
-#### Weather App made with React and Axios :point_right:  [![](https://img.shields.io/badge/-Demo-yellow?style=flat-circle&labelColor=000000&logo=github&link=https:https://lpedicino.github.io/weather-app/)](https://lpedicino.github.io/weather-app/)
-
 #### Pizzeria Remolo made with React and Tailwind CSS :point_right:  [![](https://img.shields.io/badge/-Demo-red?style=flat-circle&labelColor=000000&logo=github&link=https://lpedicino.github.io/pizza-remolo/)](https://lpedicino.github.io/pizza-remolo/)
+
+#### Burgerness website made with React and Tailwind CSS :point_right:  [![](https://img.shields.io/badge/-Demo-white?style=flat-circle&labelColor=000000&logo=github&link=https://lpedicino.github.io/burgerness/)](https://lpedicino.github.io/burgerness/) 
   
-#### Burgerness website made with React and Tailwind CSS :point_right:  [![](https://img.shields.io/badge/-Demo-white?style=flat-circle&labelColor=000000&logo=github&link=https://lpedicino.github.io/burgerness/)](https://lpedicino.github.io/burgerness/)
- 
- 
- #### Memotest made with HTML CSS & JS :point_right:  [![](https://img.shields.io/badge/-Demo-blue?style=flat-circle&labelColor=000000&logo=github&link=https:https://lpedicino.github.io/MemotestCuphead/)](https://lpedicino.github.io/MemotestCuphead/)
- 
- 
+#### Weather App made with React and Axios :point_right:  [![](https://img.shields.io/badge/-Demo-yellow?style=flat-circle&labelColor=000000&logo=github&link=https:https://lpedicino.github.io/weather-app/)](https://lpedicino.github.io/weather-app/)
+   
 #### Pókedex made with HTML CSS & JS  :point_right:  [![](https://img.shields.io/badge/-Demo-red?style=flat-circle&labelColor=000000&logo=github&link=https://lpedicino.github.io/pokedex/)](https://lpedicino.github.io/pokedex/)
 
  
