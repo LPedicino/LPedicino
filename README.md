@@ -95,7 +95,7 @@
 
 <h2 align="center">
 
- Related links: 
+ Social media: 
  
 </h2>
 
